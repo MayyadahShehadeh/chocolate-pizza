@@ -1,0 +1,113 @@
+
+
+body {
+    margin: auto;
+    border: white;
+    width: 50%;
+    padding: auto;
+  }
+
+header{
+  
+    display: inline;
+    text-align: left;
+    background-color: white;
+
+
+}
+
+nav ul li {
+    display: inline-block;
+    float: right;
+
+}
+#mail{
+    margin-left: 10px;
+}
+h1{
+    font-family: 'Courgette';
+
+    display: inline-block;
+}
+h2{
+    font-family: 'Denk One';
+}
+ h5,h2,h3{
+    margin: 0;
+}
+h3{
+    font-size: 35px;
+}
+#personalIntro img{
+    float: left;
+    display: inline;
+}
+#personalIntro p{
+    font-size: 20px;
+}
+main div{
+    display: grid;}
+
+
+main div ul li{
+float: right;
+display: inline-block;
+margin: 0;
+
+}
+
+#p1{
+    margin: 0;
+}
+h2{
+    font-weight:bold;
+    font-size: 40px;
+}
+article{
+
+    font-size: 20px;
+}
+#checkbox{
+    display: inline-table;
+    background-image: url(imgs/list-bg.png) ;
+}
+#section1{
+    padding-top: 30px;
+    float: left;
+    font-size: 20px;
+    text-align: left;
+    margin: auto;
+}
+#section2{
+    margin: 30px;
+    float: right;
+    font-size: 20px;
+text-align: left;
+}
+#personalIntro{
+    display: inline;
+
+}
+
+button{
+    float: right;
+    margin: 0;
+
+font-size: 20px;
+padding: 10px 30px;
+color: white;
+background-color:rgb(128, 39, 7) ;
+border-radius: 2px;
+}
+footer {
+align-items: center;
+ text-align: center;
+
+}
+
+.styleinputs{
+    text-decoration: line-through;
+    display: inline;
+}
+
+
