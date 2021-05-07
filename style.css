@@ -92,7 +92,6 @@ text-align: left;
 button{
     float: right;
     margin: 0;
-
 font-size: 20px;
 padding: 10px 30px;
 color: white;
@@ -105,9 +104,6 @@ align-items: center;
 
 }
 
-.styleinputs{
+input[type=checkbox]:checked + label.linethrough{
     text-decoration: line-through;
-    display: inline;
 }
-
-
