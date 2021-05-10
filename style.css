@@ -108,6 +108,6 @@ input[type=checkbox]:checked + label.linethrough{
     text-decoration: line-through;
 }
 #img11{
-    width: 800px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
