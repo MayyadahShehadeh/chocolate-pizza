@@ -1,9 +1,8 @@
 
 
 body {
-    margin: auto;
-    border: white;
-    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
     padding: auto;
   }
 
@@ -69,7 +68,10 @@ article{
 }
 #checkbox{
     display: inline-table;
+
     background-image: url(imgs/list-bg.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #section1{
     padding-top: 30px;
